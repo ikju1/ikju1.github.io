@@ -15,18 +15,18 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ko-KR"
-title                    : "Ik Ju Lim BLOG"
-title_separator          : ""
+locale                   : "en-US"
+title                    : "Site Title"
+title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Ik Ju Lim"
-description              : "Blog ABOUT IT."
-url                      : ikju1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : / # the subpath of your site, e.g. "/blog"
-repository               : ikju1.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+name                     : "Your Name"
+description              : "An amazing website."
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -94,19 +94,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ik Ju Lim"
+  name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "🇰🇷 Native<br>
-  🎓 Studying Computer Engineering @ CUK"
-  location         : #"Seoul, Korea"
-  email            : #"limik1004@naver.com"
+  bio              : "I am an **amazing** person."
+  location         : "Somewhere"
+  email            :
   links:
-    - label: "Seoul, Korea"
-      icon: "fas fa-fw fa-map-marker-alt"
-      url: "https://goo.gl/maps/eTbBzUbhjo8s5oAaA"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:limik1004@naver.com"
+      # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -118,7 +114,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/ikju1"
+      # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -131,10 +127,10 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: https://www.facebook.com/profile.php?id=100005251352814
+      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: https://github.com/ikju1
+      # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -143,7 +139,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: https://www.instagram.com/ikju_0804/
+      # url:
 
 
 # Reading Files
