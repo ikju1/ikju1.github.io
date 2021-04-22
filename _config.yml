@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "ko-KR"
 title                    : "Ik Ju Lim BLOG"
-title_separator          : "-"
+title_separator          : ""
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Ik Ju Lim"
 description              : "Blog ABOUT IT."
@@ -97,9 +97,7 @@ author:
   name             : "Ik Ju Lim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "🇰🇷 Native<br>
-  🎓 Studying Computer Engineering @ CUK<br>
-  🐱 https://github.com/ikju1<br>
-  ✉️ limik1004@naver.com"
+  🎓 Studying Computer Engineering @ CUK"
   location         : #"Seoul, Korea"
   email            : #"limik1004@naver.com"
   links:
