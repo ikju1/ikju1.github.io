@@ -1,5 +1,6 @@
 ---
 layout: archive
+comments: true
 ---
 
 {{ content }}
@@ -29,6 +30,8 @@ layout: archive
   </section>
 {% endfor %}
 
+{% if page.comments %}
 <div id="post-disqus" class="container">
   {% include disqus.html %}
 </div>
+{% endif %}
